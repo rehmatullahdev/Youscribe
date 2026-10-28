@@ -1,0 +1,23 @@
+{
+  "id": "9c43756957364befb8eaa2f1b2d81366",
+  "status": "done",
+  "stage": "Complete",
+  "progress": 100,
+  "started_at": 1792569142.4600446,
+  "title": "upload.flac",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "text": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country."
+    }
+  ],
+  "text": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+  "language": "en",
+  "duration_seconds": 11.0,
+  "model": "tiny",
+  "model_load_seconds": 2.24,
+  "transcription_seconds": 2.94,
+  "total_seconds": 5.25,
+  "realtime_factor": 0.267
+}

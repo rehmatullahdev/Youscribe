@@ -1,0 +1,28 @@
+{
+  "id": "e98215b25a84462b8f9d9f032dcafd3a",
+  "status": "done",
+  "stage": "Complete",
+  "progress": 100,
+  "started_at": 1792569184.534322,
+  "title": "Me at the zoo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.72,
+      "text": "Alright so here we are one of the elephant's cool thing for these guys it's that they have really really"
+    },
+    {
+      "start": 9.72,
+      "end": 18.32,
+      "text": "really long prompts and that's cool and that's pretty much all it is to say"
+    }
+  ],
+  "text": "Alright so here we are one of the elephant's cool thing for these guys it's that they have really really\nreally long prompts and that's cool and that's pretty much all it is to say",
+  "language": "en",
+  "duration_seconds": 19.01,
+  "model": "tiny",
+  "model_load_seconds": 0.0,
+  "transcription_seconds": 1.76,
+  "total_seconds": 5.04,
+  "realtime_factor": 0.093
+}
